@@ -91,19 +91,19 @@ This project follows the MVVM architecture pattern:
 
 ---
 
-<img src="screens/home.png" width="100"/>![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 41_fc7fdbed](https://github.com/user-attachments/assets/9445de1b-2739-4827-987c-e179d3ded11e)
+<img src="screens/![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 41_fc7fdbed](https://github.com/user-attachments/assets/cfb99688-9f0a-4abf-921e-2ae551204ef1)" width="100"/>
 
-<img src="screens/home.png" width="100"/>![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 40_35f25d27](https://github.com/user-attachments/assets/aa3e47de-8988-4be6-a590-f83681376f5d)
+<img src="screens/" width="100"/>
 
-<img src="screens/home.png" width="100"/>![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 40_334c63f7](https://github.com/user-attachments/assets/4abd0368-85cf-4f49-baa8-0b1cb1b1ceac)
+<img src="screens/" width="100"/>
 
-<img src="screens/home.png" width="100"/>![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 40_854714bc](https://github.com/user-attachments/assets/6627a451-395d-441b-81ab-20d0e3ce8e65)
+<img src="screens/" width="100"/>
 
-<img src="screens/home.png" width="100"/>![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 39_65b795fc](https://github.com/user-attachments/assets/dcc28617-ab4e-4eea-9c37-7ef307d3ec31)
+<img src="screens/home.png" width="100"/>
 
-<img src="screens/home.png" width="100"/>![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 39_a989450c](https://github.com/user-attachments/assets/b191ce47-8692-49c2-8f92-e6ca160b14af)
+<img src="screens/home.png" width="100"/>
 
-<img src="screens/home.png" width="100"/>![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 38_06852b64](https://github.com/user-attachments/assets/db6aa268-f02a-4ed0-a592-9d0da402a3d4)
+<img src="screens/home.png" width="100"/>
 
 
 ---
