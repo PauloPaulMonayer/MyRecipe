@@ -94,7 +94,14 @@ This project follows the MVVM architecture pattern:
 ## Screenshots
 | Home Screen                | Search Screen               | Favorites Screen           |
 |----------------------------|-----------------------------|----------------------------|
-| <img src="screens/home.png" width="250"/> | <img src="screens/search.png" width="250"/> | <img src="screens/favorites.png" width="250"/> |
+| <img src="screens/hom![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 41_fc7fdbed](https://github.com/user-attachments/assets/eaa0e800-837f-41d8-8b97-a35b5d2a552e)![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 39_a989450c](https://github.com/user-attachments/assets/a83ed758-02cc-4240-a48e-76e64f18bfa8)
+![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 39_65b795fc](https://github.com/user-attachments/assets/b318c108-e1f6-4eb5-8d8c-fe8c55c5f920)
+![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 40_854714bc](https://github.com/user-attachments/assets/da9bf40f-cf95-44b0-99a4-5ef96ba4d234)
+![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 40_334c63f7](https://github.com/user-attachments/assets/c843eaac-015d-4aa1-b916-f2451f247a65)
+![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 40_35f25d27](https://github.com/user-attachments/assets/74cdd5cf-95ee-411a-9f6a-aaec0f1bd273)
+![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 38_06852b64](https://github.com/user-attachments/assets/54f75410-3861-451d-9069-6807f9f37f6b)
+
+e.png" width="250"/> | <img src="screens/search.png" width="250"/> | <img src="screens/favorites.png" width="250"/> |
 
 *(Replace or add actual images from your project.)*
 
