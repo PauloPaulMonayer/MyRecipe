@@ -91,24 +91,6 @@ This project follows the MVVM architecture pattern:
 
 ---
 
-<img src="./screens/1.jpg" width="200"/>![1](https://github.com/user-attachments/assets/8af22dd3-65a6-467a-b2c0-6ad821f27fef)
-
-
-<img src="screens/" width="100"/>
-
-<img src="screens/" width="100"/>
-
-<img src="screens/" width="100"/>
-
-<img src="screens/home.png" width="100"/>
-
-<img src="screens/home.png" width="100"/>
-
-<img src="screens/home.png" width="100"/>
-
-
----
-
 ## Installation & Setup
 1. **Clone** the repository:
    ```bash
