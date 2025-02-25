@@ -91,7 +91,8 @@ This project follows the MVVM architecture pattern:
 
 ---
 
-<img src="screens/![תמונה של WhatsApp‏ 2025-02-23 בשעה 15 30 41_fc7fdbed](https://github.com/user-attachments/assets/cfb99688-9f0a-4abf-921e-2ae551204ef1)" width="100"/>
+<img src="./screens/1.jpg" width="200"/>![1](https://github.com/user-attachments/assets/8af22dd3-65a6-467a-b2c0-6ad821f27fef)
+
 
 <img src="screens/" width="100"/>
 
