@@ -130,14 +130,12 @@ We welcome contributions! Follow these steps for adding features or improvements
 - **Paulo Monayer** – API & Repository Implementation  
 - **Orya Avrahm** – Room Integration & Testing  
 
-*(Replace with your actual team members and responsibilities.)*
 
 ---
 
 ## Questions & Support
-- Email: [team@appmasters.com](mailto:monayer42@gmail.com)  
-- LinkedIn: [LinkedIn Project Page]([https://www.linkedin.com/in/paulo-monayer/])  
-- You can also open an **Issue** in this repository for bug reports or feature requests.
+- Email: [monayer42@gmail.com](mailto:monayer42@gmail.com)  
+- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/paulo-monayer/])  
 
 ---
 
