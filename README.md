@@ -128,7 +128,7 @@ We welcome contributions! Follow these steps for adding features or improvements
 **Team AppMasters 2025**  
 - **Tal Ahron** – Frontend & ViewModel Development  
 - **Paulo Monayer** – API & Repository Implementation  
-- **Orya Avrahm** – Room Integration & Testing  
+- **Orya Avrahm** – Room Integration & Testing  & API & Repository Implementation
 
 
 ---
